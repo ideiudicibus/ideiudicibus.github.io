@@ -255,14 +255,6 @@
           "_params": {}
         }
       ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "NoSQL Patterns: denormalize your mind, different perspective sql and nosql database",
-        "title": "article_12072017_Javascript_algorithms",
-        "order": 2
-      },
-      "components": []
     }
   }
 }
