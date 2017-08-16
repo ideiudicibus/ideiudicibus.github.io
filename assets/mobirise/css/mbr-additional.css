@@ -24,21 +24,36 @@ body {
   font-family: 'Rubik', sans-serif;
   font-size: 4.25rem;
 }
+.display-1 > .mbr-iconfont {
+  font-size: 6.8rem;
+}
 .display-2 {
   font-family: 'Rubik', sans-serif;
   font-size: 3rem;
+}
+.display-2 > .mbr-iconfont {
+  font-size: 4.8rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
 }
+.display-4 > .mbr-iconfont {
+  font-size: 1.6rem;
+}
 .display-5 {
   font-family: 'Rubik', sans-serif;
   font-size: 1.5rem;
 }
+.display-5 > .mbr-iconfont {
+  font-size: 2.4rem;
+}
 .display-7 {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
+}
+.display-7 > .mbr-iconfont {
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -84,13 +99,6 @@ body {
   align-items: center;
   justify-content: center;
   word-break: break-word;
-}
-.btn .mbr-iconfont {
-  font-size: 1.6rem;
-}
-.navbar .btn {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
 }
 .btn-sm {
   font-weight: 500;
@@ -620,6 +628,9 @@ a:hover {
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
+.form-control > .mbr-iconfont {
+  font-size: 1.6rem;
+}
 .form-control,
 .form-control:focus {
   border: 1px solid #e8e8e8;
@@ -655,10 +666,6 @@ pre {
   background: #f4f4f4;
   padding: 10px 24px;
   white-space: pre-wrap;
-}
-.navbar-caption {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
 }
 .inactive {
   -webkit-user-select: none;
@@ -873,8 +880,8 @@ pre {
   color: #767676;
 }
 .cid-qqhX7wmasg {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-qqhX7wmasg .counter-container {
@@ -902,37 +909,9 @@ pre {
   margin: 5px 10px;
   line-height: 40px;
   transition: all .2s;
-  color: #000000;
-  background: #f7ed4a;
+  color: #ffffff;
+  background: #149dcc;
   width: 40px;
   height: 40px;
   border-radius: 50%;
-}
-.cid-qqiMwcAqpV {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qqiMwcAqpV .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qqiMwcAqpV .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qqiMwcAqpV .mbr-text {
-  color: #767676;
-  text-align: left;
-}
-.cid-qqiR5FP6Ww {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qqiR5FP6Ww .mbr-text,
-.cid-qqiR5FP6Ww blockquote {
-  color: #767676;
 }
