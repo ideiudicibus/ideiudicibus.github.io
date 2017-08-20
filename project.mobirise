@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ignazio de iudicibus' blog",
-    "currentPage": "article_22072017_NoSQL_Patterns_denormalize_your_mind.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 28,
     "versionPublish": "4.1.6",
@@ -32,7 +32,7 @@
       },
       "additionalSetColors": []
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/1421942630.svg",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
